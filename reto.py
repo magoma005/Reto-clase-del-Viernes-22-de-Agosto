@@ -1,4 +1,4 @@
-nombre = input("Digite su nombre ")
+nombre = input("Digite su nombre:")
 #Mayuscula
 print(nombre.upper())
 #Minuscula
